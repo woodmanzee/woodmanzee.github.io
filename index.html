@@ -22,7 +22,7 @@
 	        get: 'tagged',
 	        tagName: 'newmansee',
 	        clientId: '1d588f0f20c94721950628b5144e10db',
-			template: '<a class="fancybox" rel="group" href="{{link}}"><img src="{{image}}" alt=""/></a>'
+			template: '<a class="imageViewLink fancybox" data-fancybox-group="gallery" href="{{model.images.standard_resolution.url}}" title="{{caption}}"><img src="{{image}}" alt=""/></a>'
 	    });
 	    feed.run();
 	</script>
@@ -31,6 +31,14 @@
 	<script type="text/javascript">
 		$(document).ready(function() {
 			$(".fancybox").fancybox();
+		});
+	</script>
+	
+	<script type="text/javascript">
+		$(document).ready(function() {
+		    $('.imageViewLink').click(function(event){
+		      event.preventDefault();
+		    });
 		});
 	</script>
 	
