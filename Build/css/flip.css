@@ -1,0 +1,43 @@
+.box { 
+	width: 200px;
+	height: 200px;
+	position: relative;
+	perspective: 800px;
+	-webkit-perspective: 800px;
+	border-radius: 5px;
+	margin: 10px;
+	display: inline-block;
+}
+#card {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  position: absolute;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  -webkit-transition: transform 1s;
+  transition: transform 1s;
+  transition-duration: .5s;
+  -webkit-transition-duration: .5s;
+}
+#card figure {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+#card .front {
+	border-radius: inherit;
+}
+#card .back {
+  border-radius: inherit;
+  -webkit-transform: rotateY( 180deg );
+  transform: rotateY( 180deg );
+}
+
+#card.flipped {
+  -webkit-transform: rotateY( 180deg );
+  transform: rotateY( 180deg );
+}
