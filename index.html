@@ -4,6 +4,7 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<link rel="stylesheet" type="text/css" href="css/flip.css">
+	<link rel="stylesheet" href="fancyBox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
 	
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 	<script type="text/javascript" src="js/scroll.js"></script>
@@ -12,6 +13,8 @@
 	<script type="text/javascript" src="js/instafeed.min.js"></script>
 	<script type="text/javascript" src="js/navScroll.js"></script>
 	<script type="text/javascript" src="js/navShow.js"></script>
+	<script type="text/javascript" src="fancyBox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+	
 	
 	<!-- INSTAFEED -->
 	<script type="text/javascript">
@@ -19,9 +22,16 @@
 	        get: 'tagged',
 	        tagName: 'newmansee',
 	        clientId: '1d588f0f20c94721950628b5144e10db',
-			template: '<a href="{{link}}"><img src="{{image}}" /></a>'
+			template: '<a class="fancybox" rel="group" href="{{link}}"><img src="{{image}}" alt=""/></a>'
 	    });
 	    feed.run();
+	</script>
+	
+	<!-- FANCY BOX -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$(".fancybox").fancybox();
+		});
 	</script>
 	
 <title>woodmanzee</title>
@@ -266,7 +276,7 @@
 				<div id="socialListH">
 					<a href="https://www.facebook.com/zack.woodmansee"><image class="socialicon" src="images/icons/facebook.png" alt="zfacebook"/></a>
 					<a href="https://plus.google.com/+ZackaryWoodmansee"><image class="socialicon" src="images/icons/google.png" alt="zgoogle"/></a>
-					<a href="http://instagram.com/woodmanzee"><image class="socialicon" src="images/icons/instagram.png" alt="zinstagram"/></a>
+					<a href="http://instagram.com/new_hanners"><image class="socialicon" src="images/icons/instagram.png" alt="zinstagram"/></a>
 					<a href="http://lnkd.in/Heiskg"><image class="socialicon" src="images/icons/linkedin.png" alt="zlinkedin"/></a>
 					<a href="http://www.pinterest.com/woodmanzee"><image class="socialicon" src="images/icons/pinterest.png" alt="zpinterest"/></a>
 					<a href="https://twitter.com/woodmanzee"><image class="socialicon" src="images/icons/twitter.png" alt="ztwitter"/></a>
