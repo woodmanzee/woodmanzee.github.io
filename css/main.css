@@ -1,193 +1,193 @@
-#intro { 
-    background: url(../images/zhcut-small.png) 50% 0 fixed; 
-	background-size: cover;
-    margin: 0 auto; 
-    width: 100%; 
-    position: relative; 
+#intro {
+    background: url(../images/zhcut-small.png) 50% 0 fixed;
+    background-size: cover;
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 100px 0;
-	height: 700px;
-}
-#home { 
-    background: url(../images/intro.png) 50% 0 fixed;
-	background-repeat: repeat;
-    margin: 0 auto; 
-    width: 100%; 
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
-    padding: 100px 0;
-	height: 700px;
-}
-#zack { 
-    background: url(../images/about.png) 50% 0 fixed; 
     height: 700px;
-    margin: 0 auto; 
-    width: 100%; 
+}
+#home {
+    background: url(../images/intro.png) 50% 0 fixed;
+    background-repeat: repeat;
+    margin: 0 auto;
+    width: 100%;
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 100px 0;
+    height: 700px;
+}
+#zack {
+    background: url(../images/about.png) 50% 0 fixed;
+    height: 700px;
+    margin: 0 auto;
+    width: 100%;
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 100px 0;
     color: #fff;
 }
-#hannah { 
-    background: url(../images/blue.jpg) 50% 0 fixed; 
+#hannah {
+    background: url(../images/blue.jpg) 50% 0 fixed;
     height: 700px;
-    margin: 0 auto; 
-    width: 100%; 
+    margin: 0 auto;
+    width: 100%;
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 100px 0;
 }
-#pictures { 
-    background: url(../images/lace.jpg) 50% 0 fixed; 
+#pictures {
+    background: url(../images/photography.png) 50% 0 fixed;
     height: 700px;
-    margin: 0 auto; 
-    width: 100%; 
+    margin: 0 auto;
+    width: 100%;
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 100px 0;
 }
 .styleFont {
-	font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
 }
 .styleText {
-	font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
-	font-size: 20px;
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+    font-size: 20px;
 }
 .styleTitle {
-	font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
-	font-weight: bold;
-	font-size: 40px;
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 40px;
 }
 .title-text {
-	position: relative;
-	margin-top: 400px;
-	text-shadow: 2px 2px #4A4A4A;
+    position: relative;
+    margin-top: 400px;
+    text-shadow: 2px 2px #4A4A4A;
 }
 #title {
-	color: #fff;
-	font-size: 64px;
-	font-weight: 500;
-	line-height: 1.1;
-	font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+    color: #fff;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 1.1;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
 }
 #subtitle {
-	color: #fff;
-	font-size: 50px;
-	font-weight: 500;
-	line-height: 1.1;
-	font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;;
+    color: #fff;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 1.1;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;;
 }
 .navButton {
-	position: fixed;
-	background-color: none;
-	background: none;
-	top: 100px;
-	z-index:99;
+    position: fixed;
+    background-color: none;
+    background: none;
+    top: 100px;
+    z-index:99;
 }
 .homeButton {
-	left: 50px;
+    left: 50px;
 }
 .indexButton {
-	right: 50px;
+    right: 50px;
 }
 #zackHalf, #hannahHalf {
-	height: 500px;
-	border-radius: 5px;
-	box-shadow: 2px 2px 5px #4A4A4A;
+    height: 500px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #4A4A4A;
 }
 #zackClimb, #hannahPic {
-	height: 250px;
-	margin-top: 10px;
-	margin-bottom: 10px;
+    height: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 #socialListZ, #socialListH {
-	margin-top: 15px;
+    margin-top: 15px;
 }
 .about-bubble {
-	line-height: 2;
-	border-radius: 15px;
-	border: 1px solid;
-	color: black;
-	cursor: pointer;
+    line-height: 2;
+    border-radius: 15px;
+    border: 1px solid;
+    color: black;
+    cursor: pointer;
 }
 .secret-heading {
-	font-weight: bold;
-	margin-top: 30px;
+    font-weight: bold;
+    margin-top: 30px;
 }
 .blue:hover, .blue:active {
-	background: #A6CFF1;
+    background: #A6CFF1;
 }
 .pink:hover, .pink:active {
-	background: #F1A6D0;
+    background: #F1A6D0;
 }
 .orange:hover, .orange-select {
-	background: #FFD991;
+    background: #FFD991;
 }
 .green:hover, .green-select {
-	background: #AFF1A6;
+    background: #AFF1A6;
 }
 .red:hover, .red-select {
-	background: #F1A6A6;
+    background: #F1A6A6;
 }
 .purple:hover, .purple-select {
-	background: #BEA6F1;
+    background: #BEA6F1;
 }
 .yellow:hover, .yellow-select {
-	background: #FFFFAD;
+    background: #FFFFAD;
 }
 .white:hover {
-	background: #FFFFFF;
+    background: #FFFFFF;
 }
 .proj {
-	border-radius: 5px;	
-	display: inline-block;
-	max-width:100%;
+    border-radius: 5px;
+    display: inline-block;
+    max-width:100%;
 }
 #proj-wb {
-	background: url(../images/projects/whiteboard/wb-logo.png);
+    background: url(../images/projects/whiteboard/wb-logo.png);
 }
 .projectSection {
-	margin-top: 5px;
+    margin-top: 5px;
 }
 .insta {
-	border-radius: 5px;	
-	max-width:100%;
+    border-radius: 5px;
+    max-width:100%;
 }
 .instaBox {
-	border-radius: 5px;	
-	display: inline-block;
-	width: 200px;
-	height: 200px;
+    border-radius: 5px;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
 }
 .quote {
-	font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
-	font-size: 30px;
-	margin-bottom: 40px;
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+    font-size: 30px;
+    margin-bottom: 40px;
 }
 #mainBody {
-	display: inline;
+    display: inline;
 }
 .navBody {
-	display: inline;
-	width: 180px;
-	position: fixed;
-	right: 0px;
-	top: 0px;
-	background-color:rgba(209, 209, 209, 0.5);
-	height: 100%;
+    display: inline;
+    width: 180px;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    background-color:rgba(209, 209, 209, 0.5);
+    height: 100%;
 }
 .navBars {
-	margin-top: 100px;
+    margin-top: 100px;
 }
 .navBar {
-	height: 44px;
-	font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
-	padding: 10px 0px 10px 20px;
-	font-size: 20px;
+    height: 44px;
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+    padding: 10px 0px 10px 20px;
+    font-size: 20px;
 }
 .navBar a {
-	color: black !important;
-	text-decoration: none;
+    color: black !important;
+    text-decoration: none;
 }
 .navBar:hover {
-	background-color:rgba(235, 235, 235, 0.5);
+    background-color:rgba(235, 235, 235, 0.5);
 }
 .navOpened {
-	right: 200px;
+    right: 200px;
 }
