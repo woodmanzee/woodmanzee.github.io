@@ -191,3 +191,5 @@
 .navOpened {
     right: 200px;
 }
+.noproj {
+    border: 2px dashed grey;
