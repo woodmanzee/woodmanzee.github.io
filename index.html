@@ -5,9 +5,12 @@
 <link rel="stylesheet" type="text/css" href="css/main.css">
 <link rel="stylesheet" type="text/css" href="css/flip.css">
 <link rel="stylesheet" href="fancyBox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css" />
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
 <script type="text/javascript" src="js/scroll.js"></script>
+<script type="text/javascript" src="js/anchorScroll.js"></script>
 <script type="text/javascript" src="js/main.js"></script>
 <script type="text/javascript" src="js/flip.js"></script>
 <script type="text/javascript" src="js/instafeed.min.js"></script>
@@ -121,7 +124,7 @@ $(document).ready(function() {
                         <p class="secret-heading">Decided To Get Married</p>
                         <p>even though Hannah felt like she wasn't ready. At first she wanted to wait until 
                         December, but that just wasn't going to fly. Things were moving pretty fast and 
-                        she hadn't planned on getting married until 25 (who does that anyways?).</p>
+                        she hadn't planned on getting married until 25 (who does that anyways?)</p>
                         <p>After (not much) discussion, we decided we wanted to take the plunge that summer.</p>
                     </div>
                     <p class="about-bubble purple toggle">02/14</p>
@@ -396,22 +399,22 @@ $(document).ready(function() {
 </section>
 </div>
 
-<div class="navBody hide">
+<div class="navBody">
 <div class="navBars">
-    <div class="navBar">
-        <a href="#intro"><p>Home</p></a>
+    <div class="navBar" id="navBarIntro">
+        <a href="#none"><p>Home</p></a>
     </div>
-    <div class="navBar">
-        <a href="#home"><p>Our History</p></a>
+    <div class="navBar" id="navBarHome">
+        <a href="#none"><p>Our History</p></a>
     </div>
-    <div class="navBar">
-        <a href="#zack"><p>Zack</p></a>
+    <div class="navBar" id="navBarZack">
+        <a href="#none"><p>Zack</p></a>
     </div>
-    <div class="navBar">
-        <a href="#hannah"><p>Hannah</p></a>
+    <div class="navBar" id="navBarHannah">
+        <a href="#none"><p>Hannah</p></a>
     </div>
-    <div class="navBar">
-        <a href="#pictures"><p>Photos of Us</p></a>
+    <div class="navBar" id="navBarPictures">
+        <a href="#none"><p>Photos of Us</p></a>
     </div>
 </div>
 </div>

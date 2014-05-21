@@ -164,16 +164,15 @@
     display: inline;
 }
 .navBody {
-    display: inline;
     width: 180px;
     position: fixed;
-    right: 0px;
+    right: -180px;
     top: 0px;
     background-color:rgba(209, 209, 209, 0.5);
     height: 100%;
 }
 .navBars {
-    margin-top: 100px;
+    padding-top: 100px;
 }
 .navBar {
     height: 44px;
