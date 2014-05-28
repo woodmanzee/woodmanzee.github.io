@@ -10,6 +10,9 @@ $(document).ready(function() {
     $("#navBarHome").click(function() {
         scrollToAnchor('home');
     });
+    $("#navBarBlog").click(function() {
+        scrollToAnchor('blog');
+    });
     $("#navBarZack").click(function() {
         scrollToAnchor('zack');
     });

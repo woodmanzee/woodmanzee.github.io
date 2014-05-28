@@ -17,6 +17,8 @@
 <script type="text/javascript" src="js/navScroll.js"></script>
 <script type="text/javascript" src="js/navShow.js"></script>
 <script type="text/javascript" src="fancyBox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+<script type='text/javascript' src='https://www.google.com/jsapi'></script>
+<script type="text/javascript" src="js/rss.js"></script>
 
 
 <!-- INSTAFEED -->
@@ -159,6 +161,26 @@ $(document).ready(function() {
             </div>
         </div>
     </div>
+</section>
+
+<!-- Blog -->
+<section id="blog" data-speed="8" data-type="background">
+    <div class="row text-center">
+        <p class="styleTitle">Blog</p>
+    </div>
+    <div class="row">
+        <div class="col-md-2 text-center">
+            <button type="button" class="btn btn-default blog-nav blog-nav-left">Previous Post</button>
+        </div>
+        <div class="col-md-8 blog-window">
+            <div class="blogfeed">
+                <!-- blog posts are added here by jquery -->
+            </div>
+        </div>
+        <div class="col-md-2 text-center">
+            <button type="button" class="btn btn-default blog-nav blog-nav-right">Next Post</button>
+        </div>
+        </div>
 </section>
 
 <!-- Zack -->
@@ -403,6 +425,9 @@ $(document).ready(function() {
     </div>
     <div class="navBar" id="navBarHome">
         <a href="#history-section"><p>Our History</p></a>
+    </div>
+    <div class="navBar" id="navBarBlog">
+        <a href="#blog-section"><p>Blog</p></a>
     </div>
     <div class="navBar" id="navBarZack">
         <a href="#zack-section"><p>Zack</p></a>
