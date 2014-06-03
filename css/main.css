@@ -162,7 +162,11 @@
 .quote {
     font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
     font-size: 30px;
+}
+.quote-info {
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
     margin-bottom: 40px;
+    font-size: 18px;
 }
 #mainBody {
     display: inline;
