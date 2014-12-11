@@ -41,7 +41,7 @@
 }
 #blog {
     background: url(../images/crossword.png) 50% 0 fixed;
-    height: 700px;
+    height: 1200px;
     margin: 0 auto;
     width: 100%;
     padding: 100px 0;
@@ -202,10 +202,10 @@
     border: 2px dashed grey;
 }
 .blog-nav {
-    margin-top: 210px;
+    margin-top: 410px;
 }
 .blog-window {
-    height: 450px;
+    height: 850px;
     background-color: rgba(235, 235, 235, 0.5);
     overflow:scroll;
 }
