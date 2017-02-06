@@ -14,7 +14,9 @@ We only had a single day to spend in Colorado so we had to make the most of it! 
 After the workout we headed into the city and onto 16th street, a downtown pedestrian strip with lots of food and shopping. We walked along the street with no real destination in mind. There's something fun about not having an agenda and just wandering in whatever store catches your eye.
 
 ![16th street](/assets/images/posts/16thstreetview.jpg)
+
 ![Zack in the bookstore](/assets/images/posts/zack-in-bookstore.jpg)
+
 Zack found his happy place.
 
 After an hour or two we checked out Union Station. It was amazing to see how the city has turned this old train hub into a very classy meet and greet slash hangout area, with leather chairs and nice wooden tables surrounded by little coffee and dessert shops.
@@ -26,6 +28,7 @@ Today also turned out to be our trial and error day. We planned a few things (th
 After much deliberation and driving around in circles while googling what was still open, we ended up at the house of the "unsinkable" Molly Brown. Naturally it was about to close, but we still saw the gorgeous exterior and went into the carriage-house-turned-gift-shop and the employees were nice enough to tell us a bit of the place's history before shooing out the door so they could close up. Since everything in Denver was closed just to spite us, we decided to just walk around the State Capitol building grounds before calling it a day.
 
 ![Molly Brown House](/assets/images/posts/MollyBrown.jpg)
+
 ![CO Capitol](/assets/images/posts/COcapitol.jpg)
 
 It was an exciting day and by the end we were ready to go back and hang out with family for the rest of the night.

@@ -34,8 +34,8 @@ defaults:
         show_tags: true
         show_categories: true
         # Social
-        share_buttons: true
-        disqus: true
+        share_buttons: false
+        disqus: false
 
 gems:
     - jekyll-feed
