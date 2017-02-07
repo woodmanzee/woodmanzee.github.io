@@ -43,8 +43,6 @@ An easy path took us right to the falls. It seemed so random in a place that had
 ![FallsZH](/assets/images/posts/FallsZH.jpg)
 (We are only a little weird)
 
-![FallsH](/assets/images/posts/FallsH.jpg)
-
 The park also has a castle that was built in the 30's as a summer home. And yes, I said castle. The building sits on the mountainside and is open to the public to explore which we most definitely did!
 
 ![TFcastle](/assets/images/posts/TFcastle.jpg)
@@ -58,3 +56,5 @@ Another great stop in this trip!
 We finally made it to Dallas and met up with some friends of ours at Velvet Taco for dinner. This place had their own twist on tacos. They offered a variety of protein: chicken, steak, fish, tofu, etc. but then topped them off with different salsas, dressings, and other yummy things. I got a fish taco and a rotisserie chicken taco. Both were excellent but my favorite was the fish taco. It was great to catch up with old friends and enjoy dinner in the city. After dinner Zack bought a slice of red velvet cake because dessert is always a good way to finish off dinner. The cake was delicious! So moist and dense with lots of frosting, just the way I like it.
 
 3rd leg of the Journey: ~8 hours. 412 miles.
+
+![dallas-map](/assets/images/maps/dallas.jpg)
