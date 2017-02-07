@@ -49,6 +49,8 @@ The park also has a castle that was built in the 30's as a summer home. And yes,
 
 ![TFcastleZH](/assets/images/posts/TFcastleZH.jpg)
 
+![TurnerFallsH](/assets/images/posts/TFallsH.jpg)
+
 Another great stop in this trip!
 
 > Commentary by Z: this "castle" is like every boy scout's dream... even for a grown up boy scout like myself. It's like somebody just got bored and decided "hey, there's tons of rocks around here, I bet I could build myself a sweet little fort up on this hillside" and then before you know it, it becomes this massive project with multiple rooms and 10 fireplaces and secret staircases. There were a few other families/couples there, and from each one it was the man that was way overly excited and was followed around by his polite spouse and kids. Was kind of sad to leave it but I def spent the next 20 minutes in the car thinking about how I could make one of those in my own backyard.
