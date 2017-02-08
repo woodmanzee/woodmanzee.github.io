@@ -3,10 +3,10 @@ layout: post
 title: "Kansas to Texas"
 date: 2017-02-06
 backgrounds:
-  - /assets/images/posts/OKlandscape.jpg
-  - /assets/images/posts/OKCityskyline.jpg
-  - /assets/images/posts/TurnerFalls.jpg
-thumb: /assets/images/posts/OKlandscape.jpg
+  - http://i.imgur.com/ahcoGkR.jpg
+  - http://i.imgur.com/xSYjcoH.jpg
+  - http://i.imgur.com/i38xLZt.jpg
+thumb: http://i.imgur.com/ahcoGkRt.jpg
 
 categories: travel city
 tags: Travel Kansas Texas Oklahoma Wanderlust
@@ -16,11 +16,11 @@ Today was yet another travel day. We took it easy leaving our Wichita hotel room
 
 Then we were on the road again! The first half was pretty quiet, just more prairie buuut we made it into Oklahoma. Zack says it's Kansas "with a little spice. There were a few more trees and a few more hills, but not a lot much else!
 
-![OK landscape](/assets/images/posts/OKlandscape.jpg)
+![OK landscape](http://i.imgur.com/ahcoGkRl.jpg)
 
 For lunch we stopped at Nic's Grill in Oklahoma City. It's this small little spot with very little space, basically a bar and three tables. Also it's cash only - which thankfully we had some on hand. The menu was simple enough, either a burger + fries or their special of the day + fries and while this seems like a boring menu, their burgers were amazing! They were MASSIVE and the patties were thick and sooo juicy. They offered a few different toppings but my favorite was the grilled onions. They were almost charred, black even, but it added so much flavor to the burger. The fries were also freshly cut - sorta how In-n-Out does it.
 
-![Nic's Grill](/assets/images/posts/Nic'sGrill.jpg)
+![Nic's Grill](http://i.imgur.com/Gox8lWkh.jpg)
 
 In my opinion, Nic's was better. 10/10 would recommend to a friend.
 
@@ -28,28 +28,28 @@ After lunch we went to check out the state capitol before leaving town. I was su
 
 > Commentary by Z: the state capitol had a big oil tower in the parking lot. What? Why? Apparently they found oil underneath the capitol building so they drilled a diagonal shaft to get to it... chill guys. It's the capitol building. Leave it alone and go find oil somewhere else.
 
-![OK State Capitol](/assets/images/posts/OKStateCapitol.jpg)
+![OK State Capitol](http://i.imgur.com/b2CpxGph.jpg)
 
-![OK capitol Z/H](/assets/images/posts/OKCapitolZH.jpg)
+![OK capitol Z/H](http://i.imgur.com/mB6kAldh.jpg)
 
 After our extended lunch break, we resumed our drive to Dallas but before we made it to the Texas border we headed off the freeway to Turner Falls. This waterfall is one of the tallest waterfalls in OK (there is another in a state park that matches its height of 77ft - so the internet says). We had to pay to get into the park, but at $8.50 it was well worth it. The river was so blue with natural deep pools where locals and tourists come swim in the summer.
 
-![TurnerFalls river](/assets/images/posts/TurnerFallsriver.jpg)
+![TurnerFalls river](http://i.imgur.com/ojaDR55h.jpg)
 
 An easy path took us right to the falls. It seemed so random in a place that had been flat for so long to suddenly have the gorgeous hills and a waterfall nestled in between it.
 
-![TurnerFallsZ](/assets/images/posts/TurnerFallsZ.jpg)
+![TurnerFallsZ](http://i.imgur.com/Svbe38vh.jpg)
 
-![FallsZH](/assets/images/posts/FallsZH.jpg)
+![FallsZH](http://i.imgur.com/gtXUH3eh.jpg)
 (We are only a little weird)
 
 The park also has a castle that was built in the 30's as a summer home. And yes, I said castle. The building sits on the mountainside and is open to the public to explore which we most definitely did!
 
-![TFcastle](/assets/images/posts/TFcastle.jpg)
+![TFcastle](http://i.imgur.com/AnZyDT3h.jpg)
 
-![TFcastleZH](/assets/images/posts/TFcastleZH.jpg)
+![TFcastleZH](http://i.imgur.com/Oh6FFyRh.jpg)
 
-![TurnerFallsH](/assets/images/posts/TFallsH.jpg)
+![TurnerFallsH](http://i.imgur.com/jzb77Dqh.jpg)
 
 Another great stop in this trip!
 

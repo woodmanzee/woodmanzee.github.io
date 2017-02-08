@@ -3,8 +3,8 @@ layout: post
 title: "Utah to Colorado"
 date: 2017-02-03
 backgrounds:
-    - /assets/images/posts/colorado_background.jpg
-thumb: /assets/images/posts/colorado_background.jpg
+    - http://i.imgur.com/y23BBDv.jpg
+thumb: http://i.imgur.com/y23BBDvt.jpg
 category: travel
 tags: Utah Colorado Wanderlust Travel
 ---
@@ -17,14 +17,16 @@ I didn't sleep much last night. Maybe it was just nervous energy or excitement t
 
 First leg of the journey: Utah to Colorado. 8 hours, 506 miles.
 
-![Sample Image](/assets/images/posts/utah_road.jpg)
+![Sample Image](http://i.imgur.com/yxjqbQ3.jpg)
 
-![Sample Image](/assets/images/posts/utah_to_denver_car.jpg)
+![Sample Image](http://i.imgur.com/WQUhRKa.jpg)
 
 My aunt and uncle were nice enough to let us crash at their place while we check out Denver: my hometown!
 
-![Sample Image](/assets/images/posts/denver_dinner.jpg)
+![Sample Image](http://i.imgur.com/rcRc3aR.jpg)
 
 Tonight on the menu: we found this little greek inspired restaurant called Bada Bing Grill in Arvada. We each got a gyro (finally learned how to say the dang word) and it was the best YEE-row I have ever tasted. To be real for a sec, I don't even know what kind of meat was in it. Definitely not chicken...or beef. It was sorta like sausage but maybe it was lamb?? I should have asked but because it was so good, I didn't even care. I also tried their greek salad, which I guess is just a salad? Not sure what part of it was Greek. That was also fantastic!
 
 We ended up not even going into Denver tonight, I was so tired from my night of restless sleep that the idea of relaxing and talking to family was far more appealing than running around town. But we'll make it there tomorrow I promise!
+
+![map](/assets/images/maps/denver.jpg)
