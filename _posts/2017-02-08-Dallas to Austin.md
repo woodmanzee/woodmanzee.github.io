@@ -51,3 +51,7 @@ After lunch we weren't quite ready to leave Waco. We had to see the Dr. Pepper M
 > Commentary by Z: There's something about opening an ice cold Dr. Pepper in a glass bottle in the original Dr. Pepper bottling plant that you can't get anywhere else
 
 We spent over 3 hours in Waco, which I was a little surprised by that simply because it was supposed to be a quick stop before heading to my sister's house, but Waco has more to offer than meets the eye and sometimes a quick stop is not enough!
+
+4th leg of the journey: 10 hours. 253 miles.
+
+![austin map](/assets/images/maps/austin.jpg)
