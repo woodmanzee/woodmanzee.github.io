@@ -8,7 +8,7 @@ backgrounds:
   - http://i.imgur.com/b1K61EI.jpg
 thumb: http://i.imgur.com/fmXNIC8.jpg
 categories: travel city
-tags: Travel New Orleans Louisiana Nola Wanderlust City 
+tags: Travel New Orleans Louisiana Nola Wanderlust City
 ---
 Weelll I am back! Not 100% better but, it will do for now. Getting sick on a trip like this is the worst..we don't have a ton of down time and I don't want to miss out on a city so I end up pushing myself instead of resting. It's just a bad cold but the problem with colds is that you feel good enough to still do things but bad enough that you don't really enjoy it.
 
@@ -47,3 +47,5 @@ The last stop of the night was an ice cream break! My Favorite! Also if you have
 > Commentary by Z: apparently her new "favorite" is refusing to order something for herself and helping herself to my order. yaaaaay marriage!
 
 ![A and A and Z and H](http://i.imgur.com/tBpFTGih.jpg)
+
+![new orleans](/assets/images/maps/new-orleans.jpg)

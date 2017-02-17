@@ -46,3 +46,7 @@ We got situated in our hotel and then drove to Beale St. which (thanks to my mom
 
 ![Zack and Grizzlies](http://i.imgur.com/snMupHWh.jpg)
 _The Grizzlies play here and it was just one block over from Beale Street. We were both surprised to see it right there in the middle of the city...Maybe the parking lot was in the back? Not sure where everyone parks_
+
+7th leg of the journey: 7 hours. 397 miles.
+
+![memphis](/assets/images/maps/memphis.jpg)

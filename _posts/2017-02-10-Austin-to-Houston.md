@@ -27,3 +27,7 @@ Driving to Houston. We took the more scenic route and it was weird to see the la
 ![drive to Houston](http://i.imgur.com/nskTvT9h.jpg)
 
 We made it to Zack's aunt and uncle's home where we ate out at this great TexMex place called Pappasito's Cantina. The chips and salsa were the best part, so addictive and you know why? Because they were thin hot crispy chips, lightly salted and the salsa had a little kick but not too much. Side note: Please never give me super spicy foods... I am a wimp when it comes to spice and I hate it when the burn lingers!
+
+5th leg of the journey: 3 hours. 159 miles.
+
+![houston](/assets/images/maps/houston.jpg)

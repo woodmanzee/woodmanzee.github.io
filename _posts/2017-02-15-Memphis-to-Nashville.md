@@ -49,3 +49,7 @@ Tanner had to go back to studying for his med test, but suggested that we head d
 ![H and broadway](http://i.imgur.com/pxmRLnJh.jpg)
 
 ![H and Z broadway](http://i.imgur.com/25S0mJ7h.jpg)
+
+8th leg of the journey: 3.5 hours. 224 miles.
+
+![nashville](/assets/images/maps/nashville.jpg)

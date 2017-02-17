@@ -33,3 +33,7 @@ Finally made our way into New Orleans, and I loved to see the way the architectu
 We stayed the night with the Grants, who were nice enough to make us an amazing dinner which we shared with some other friends of theirs who lived nearby. Nothing like a nice home-cooked meal to give you a break from eating out all the time! We chatted way later into the night than we should have, especially with Hannah being sick, but you know how it is when you're catching up with good friends. A 15 minute chat turns into several hours and 15 minutes, and before you know it midnight has come and gone.
 
 Looking forward to seeing the heart of the city tomorrow!
+
+6th leg of the journey: 6:25 hours. 374 miles.
+
+![new orleans](/assets/images/maps/new-orleans.jpg)

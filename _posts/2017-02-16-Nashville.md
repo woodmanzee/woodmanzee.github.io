@@ -29,3 +29,5 @@ We considered going back to Broadway for dinner but Tanner suggested we try an I
 _just a little blurry..oh well_
 
 ***Side Note - We were kinda lame with taking pics today. Sorry this post is lacking***
+
+![nashville](/assets/images/maps/nashville.jpg)
