@@ -44,3 +44,5 @@ For dinner we went to River City Cafe. If you want a burger, this place has more
 _this was legit on the menu...uh what? How does one even go about eating something like that??_
 
 We enjoyed our time in Myrtle Beach, but it's definitely not the place we're choosing to settle down. On to the next one!
+
+![myrtle beach map](/assets/images/maps/myrtle-beach.jpg)

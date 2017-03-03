@@ -8,7 +8,7 @@ backgrounds:
   - http://i.imgur.com/xLFepfE.jpg
 thumb: http://i.imgur.com/5Rqy9or.jpg
 categories: travel city
-tags: Travel Virginia Williamsburg History Jamestown Hamilton Yorktown Wanderlust City 
+tags: Travel Virginia Williamsburg History Jamestown Hamilton Yorktown Wanderlust City
 ---
 Back in Atlanta, we listened to the Hamilton Sound Track (Broadway musical) which is amazing so please go listen to it right now if you haven't! Since then, those songs pop into my head all the time and now that we have made it to Virginia, I feel like everything reminds me of the soundtrack.
 
@@ -66,3 +66,5 @@ Yorktown - The Battlefield shows remnants of where the British surrendered in th
 These three cities are worth seeing if you love history! They are all so close together that you would only need a day or two to see them all. After today, I have a greater appreciation for America and those who fought for freedom. It makes me look at my own life and consider what I should be fighting for.
 
 ![Yorktown](http://i.imgur.com/F02XLgSh.jpg)
+
+![yorktown map](/assets/images/maps/williamsburg.jpg)

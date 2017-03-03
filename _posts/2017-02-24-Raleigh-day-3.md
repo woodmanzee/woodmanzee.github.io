@@ -54,3 +54,5 @@ Before the sun set, we headed to the Temple of The Church of Jesus Christ of Lat
 ![LDS Temple](http://i.imgur.com/Qsz6Fe3h.jpg)
 
 Tomorrow is our last full day in Raleigh before we move on to Virginia! We'll probably go up and see Duke University and get our last taste of the city. See you tomorrow!
+
+![raleigh map](/assets/images/maps/raleigh.jpg)

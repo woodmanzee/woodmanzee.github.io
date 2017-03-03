@@ -50,3 +50,5 @@ After the ruins, we went back into the city to further explore the historical di
 One regret I have is that we didn't do a haunted tour. Our friends recommended that we do one and said that they "LOVED IT", but we looked at tickets the day of and they were all sold out (dang it). This tells me two things 1) other people think they are awesome and worth doing because they are not just selling out the day of, but several days in advance! 2) We should have planned ahead. I was conflicted I mean I really hate being scared. I don't even like watching scary movies..sooo why would I want to be told scary stories in creepy buildings?! But I want what I can't have and now I just really want to go on a haunted tour! I don't want to miss out and I keep thinking about it! It will just be something we can do next time we come back!
 
 ![ogelthorpe](http://i.imgur.com/RkRPNfth.jpg)
+
+![savannah map](/assets/images/maps/savannah.jpg)

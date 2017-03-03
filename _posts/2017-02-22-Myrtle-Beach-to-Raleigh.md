@@ -42,3 +42,5 @@ Since we are in the capitol city of North Carolina, we naturally had to visit th
 The city has a lot going on downtown with museums, shoppings, and restaurants. We unfortunately didn't have time to check out all these places, but I would have loved to stop in a museum. The North Carolina Museum of History was right by the state capitol and looked really interesting - I would have wanted to go there. The city is clean, not to much traffic and it seems like everyone owns a dog down here. So. Many. Dogs. That's my kind of city!
 
 > Commentary by Z: My favorite thing is how many well-kept public parks they have. We've driven past and also walked through several, and they're all so nice! There's also hiking trails everywhere, which we love. Could use a little more of that in Utah!
+
+![raleigh map](/assets/images/maps/raleigh.jpg)

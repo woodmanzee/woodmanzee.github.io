@@ -27,3 +27,5 @@ Tonight we are staying with some friends - Zack's old roommate and his wife! The
 ![Sunset H and Z](http://i.imgur.com/2IZ2276h.jpg)
 
 For dinner our friends made Korean BBQ. It was the real deal with bean paste (didn't know that existed), kimchi (surprisingly good - you know, for being fermented cabbage), dumplings and of course, the BBQ itself. And for dessert??? Cupcakes!! It was authentic - something I could only dream of cooking (that's why I will leave it to the professionals).
+
+![charleston map](/assets/images/maps/charleston.jpg)

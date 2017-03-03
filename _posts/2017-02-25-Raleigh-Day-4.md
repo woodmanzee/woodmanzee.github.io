@@ -58,3 +58,5 @@ We wish we could have taken more time to go to the nature preserves and other hi
 ![H on road](http://i.imgur.com/4N013sxh.jpg)
 
 ![road](http://i.imgur.com/HdLMuMvh.jpg)
+
+![raleigh map](/assets/images/maps/raleigh.jpg)

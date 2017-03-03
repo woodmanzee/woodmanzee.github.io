@@ -58,3 +58,5 @@ For dinner we went back to Mt. Pleasant and headed to Shem Creek Boardwalk where
 ![boardwalk H and Z]( http://i.imgur.com/DW4WQWFh.jpg)
 
 Overall impressions of Charleston?? I LOVED it! I'm gonna speak for Zack and say WE loved it! I fell in love with this city and want to come back again to explore it some more! I loved the charm, the history, the food and the southern feel. It definitely has my attention and when thinking about where we would want to live on day, this is on my short list.
+
+![charleston map](/assets/images/maps/charleston.jpg)
